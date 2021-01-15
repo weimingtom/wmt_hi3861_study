@@ -37,3 +37,6 @@ https://www.cnblogs.com/developer-huawei/p/14025909.html
 可以参考这篇：https://harmonyos.51cto.com/posts/1197   
 （2）设置hiburn：COM口刷新后选择，选择allinone固件，勾选Auto burn，点击Connect，  
 然后按板载的reset按钮，然后等待烧录的3次进度条结束  
+
+## risc-v gcc toolchain build method    
+* search baidupan, riscv-gcc-riscv-gcc-7.3.0.zip  
