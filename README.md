@@ -1,6 +1,9 @@
 # wmt_hi3861_study
 My Hi3861 study
 
+## template project  
+* search baidupan, code-1.0.tar.gz  
+
 ## (TODO) risc-v gcc toolchain build method    
 * search baidupan, riscv-gcc-riscv-gcc-7.3.0.zip  
 
