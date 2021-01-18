@@ -4,6 +4,10 @@ My Hi3861 study
 ## template project  
 * search baidupan, code-1.0.tar.gz  
 
+## my own risc-v gcc toolchain build  
+* search baidupan, gcc_riscv32_v1_not_tested.tar.gz  
+* test pass  
+
 ## (TODO) risc-v gcc toolchain build method    
 * search baidupan, riscv-gcc-riscv-gcc-7.3.0.zip  
 
