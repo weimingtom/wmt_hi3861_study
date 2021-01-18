@@ -52,3 +52,6 @@ https://www.cnblogs.com/developer-huawei/p/14025909.html
 ## 快速使用hpm-cli编译鸿蒙组件   
 https://harmonyos.51cto.com/posts/805  
 $ npm install -g @ohos/hpm-cli  
+
+## hpm包管理器   
+https://hpm.harmonyos.com/#/cn/bundles  
