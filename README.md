@@ -3,6 +3,7 @@ My Hi3861 study
 
 ## template project  
 * search baidupan, code-1.0.tar.gz  
+* build comomand: $ python3 build.py wifiiot  
 
 ## my own risc-v gcc toolchain build  
 * search baidupan, gcc_riscv32_v1_not_tested.tar.gz  
