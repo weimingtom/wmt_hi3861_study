@@ -69,4 +69,6 @@ hi3861的官网虽然给了参数，但如果照他所说的来做可能会失�
 --with-headers。这样可以暂时避免对newlib的依赖，然后再想  
 办法重新编译一次gcc  
 
+## 鸿蒙OS开发者社区, 电子发烧友论坛  
+https://bbs.elecfans.com/harmonyos  
 
