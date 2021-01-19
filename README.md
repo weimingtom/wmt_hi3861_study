@@ -55,3 +55,18 @@ $ npm install -g @ohos/hpm-cli
 
 ## hpm包管理器   
 https://hpm.harmonyos.com/#/cn/bundles  
+
+## how to compile risc-v toolchain for hi3861, by my weibo  
+说说我上星期在xubuntu 20.04 64位上编译risc-v工具链的体会。很困难，有很多坑，  
+hi3861的官网虽然给了参数，但如果照他所说的来做可能会失败。hi3861的编译方法是  
+一个简化版，官方给的完整的risc-v工具链编译是很复杂的（可能会很简单），但hi3861  
+是逐个库来编译，依次是tools（除了gcc、g++以外的命令，包括一些汇编工具）、newlib  
+（相当于c库），以及最后的gcc（剩下的gcc和g++命令），不过这里有个非常棘手的问题，  
+就是怎么解决newlib和gcc之间相互依赖的关系，我的做法是先编译一个不需要newlib头  
+文件的gcc，方法是在官方给的参数基础上，把gcc的编译参数修改成这样：  
+--disable-libssp --enable-languages=c --without-headers，  
+取代原本的--enable-libssp --enable-languages=c,c++和  
+--with-headers。这样可以暂时避免对newlib的依赖，然后再想  
+办法重新编译一次gcc  
+
+
