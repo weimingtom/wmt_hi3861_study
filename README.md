@@ -72,3 +72,6 @@ hi3861的官网虽然给了参数，但如果照他所说的来做可能会失�
 ## 鸿蒙OS开发者社区, 电子发烧友论坛  
 https://bbs.elecfans.com/harmonyos  
 
+## LiteOS Studio, support hi3861  
+https://liteos.gitee.io/liteos_studio/#/project_wifiiot  
+https://gitee.com/LiteOS/LiteOS_Studio  
