@@ -75,6 +75,8 @@ https://bbs.elecfans.com/harmonyos
 ## LiteOS Studio, support hi3861  
 https://liteos.gitee.io/liteos_studio/#/project_wifiiot  
 https://gitee.com/LiteOS/LiteOS_Studio  
+https://gitee.com/openharmony/applications_sample_wifi_iot  
+https://gitee.com/hihopeorg/applications_sample_wifi_iot  
 
 ## hcc_riscv32_win缺失问题  
 关于昨天hi3861和LiteOS Studio的问题，有几个可能的原因：  
