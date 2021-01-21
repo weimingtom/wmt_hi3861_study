@@ -91,8 +91,7 @@ C:\用户\Administrator\.huawei-liteos-studio\tools\hi3861
 我觉得可能华为自己也说不清，大概后者只是把前者改个名字，但后者可能  
 会有别的用途或者打算，或者只是单纯想和鸿蒙扯上关系罢了（很可能背后  
 也是一个团队搞的）  
-(4)  
-我发现如果装过最新版的LiteOS Studio，再装HiHope的试用版LiteOS Studio  
+(4) 我发现如果装过最新版的LiteOS Studio，再装HiHope的试用版LiteOS Studio  
 （在Hi3861 SDK压缩包中得到exe安装包），还是会出问题，因为两者的插件版本  
 号出现冲突，前者的版本旧，但插件的版本新，后者则反过来。导致插件无法升级  
 。。。看官方什么时候把试用版合并到最新版，就不会有这个吐血的问题了。  
@@ -100,3 +99,6 @@ C:\用户\Administrator\.huawei-liteos-studio\tools\hi3861
 vsix插件，用7zip解压就能看到，因为这个插件超过50MB，其实一眼就能看出里面  
 是夹带了一个很大的文件，如果你只是在gitee下载hi3861的vsix插件，连10MB都  
 不到。。。  
+(5) 其实还有一个解决办法，就是手动删除c盘Users目录下面用户名目录下的  
+.huawei-liteos-studio文件夹，官方不会去考虑有人既装正式版又装试用版的  
+LiteOS Studio的情况，只能自己手工去复位到从来没安装过的状态  
