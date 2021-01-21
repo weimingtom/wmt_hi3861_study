@@ -75,3 +75,16 @@ https://bbs.elecfans.com/harmonyos
 ## LiteOS Studio, support hi3861  
 https://liteos.gitee.io/liteos_studio/#/project_wifiiot  
 https://gitee.com/LiteOS/LiteOS_Studio  
+
+## hcc_riscv32_win缺失问题  
+关于昨天hi3861和LiteOS Studio的问题，有几个可能的原因：
+（1）gitee官网文档所说的LiteOS Studio版本似乎是比较低的，  
+跟hihope官方给的LiteOS Studio版本不同，貌似后者的版本更高（安装时显示为试用版）  
+https://liteos.gitee.io/liteos_studio  
+http://www.hihope.org/download/AllDocuments  
+（2）网上也有人出现hcc_riscv32_win工具链不存在，可能也是上面的原因导致  
+https://bbs.elecfans.com/jishu_1998668_1_1.html  
+（3）究竟LiteOS Studio和HUAWEI DevEco Device Tool哪个才是正统，  
+我觉得可能华为自己也说不清，大概后者只是把前者改个名字，但后者可能  
+会有别的用途或者打算，或者只是单纯想和鸿蒙扯上关系罢了（很可能背后  
+也是一个团队搞的）  
