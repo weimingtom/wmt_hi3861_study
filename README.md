@@ -101,4 +101,9 @@ vsix插件，用7zip解压就能看到，因为这个插件超过50MB，其实�
 不到。。。  
 (5) 其实还有一个解决办法，就是手动删除c盘Users目录下面用户名目录下的  
 .huawei-liteos-studio文件夹，官方不会去考虑有人既装正式版又装试用版的  
-LiteOS Studio的情况，只能自己手工去复位到从来没安装过的状态  
+LiteOS Studio的情况，只能自己手工去复位到从来没安装过的状态  6）
+
+## 我大致成功在windows下编译了hi3861的SDK例子工程了  
+（1）python3改成python，调用windows安装的python  
+（2）dd和sha256sum命令，用busybox解决  
+（3）hcc_riscv32_win工具链，要在hihope提供的LiteOS Studio里面找  
