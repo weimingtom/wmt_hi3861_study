@@ -86,6 +86,7 @@ https://liteos.gitee.io/liteos_studio
 http://www.hihope.org/download/AllDocuments  
 （2）网上也有人出现hcc_riscv32_win工具链不存在，可能也是上面的原因导致  
 https://bbs.elecfans.com/jishu_1998668_1_1.html  
+C:\用户\Administrator\.huawei-liteos-studio\tools\hi3861  
 （3）究竟LiteOS Studio和HUAWEI DevEco Device Tool哪个才是正统，  
 我觉得可能华为自己也说不清，大概后者只是把前者改个名字，但后者可能  
 会有别的用途或者打算，或者只是单纯想和鸿蒙扯上关系罢了（很可能背后  
