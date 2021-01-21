@@ -77,7 +77,7 @@ https://liteos.gitee.io/liteos_studio/#/project_wifiiot
 https://gitee.com/LiteOS/LiteOS_Studio  
 
 ## hcc_riscv32_win缺失问题  
-关于昨天hi3861和LiteOS Studio的问题，有几个可能的原因：
+关于昨天hi3861和LiteOS Studio的问题，有几个可能的原因：  
 （1）gitee官网文档所说的LiteOS Studio版本似乎是比较低的，  
 跟hihope官方给的LiteOS Studio版本不同，貌似后者的版本更高（安装时显示为试用版）  
 https://liteos.gitee.io/liteos_studio  
