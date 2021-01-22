@@ -1,6 +1,9 @@
 # wmt_hi3861_study
 My Hi3861 study
 
+## msys  
+* search baidupan, msys_hi3861_v1.rar  
+
 ## template project  
 * search baidupan, code-1.0.tar.gz  
 * build comomand: $ python3 build.py wifiiot  
