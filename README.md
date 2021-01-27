@@ -2,7 +2,10 @@
 My Hi3861 study
 
 ## msys  
-* search baidupan, msys_hi3861_v1.rar  
+* search baidupan, msys_hi3861_v3.rar  
+* only hihope windows version, SPC001  
+* (TODO) merge SPC004  
+* (TODO) merge linux official version, SPC005    
 
 ## template project  
 * search baidupan, code-1.0.tar.gz  
