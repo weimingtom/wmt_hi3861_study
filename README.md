@@ -113,3 +113,6 @@ LiteOS Studio的情况，只能自己手工去复位到从来没安装过的状�
 （1）python3改成python，调用windows安装的python  
 （2）dd和sha256sum命令，用busybox解决  
 （3）hcc_riscv32_win工具链，要在hihope提供的LiteOS Studio里面找  
+
+## 华为开发者论坛, search hi3861    
+https://developer.huawei.com/consumer/cn/doc/search?val=hi3861&type=forum  
