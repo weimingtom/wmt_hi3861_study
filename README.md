@@ -116,3 +116,6 @@ LiteOS Studio的情况，只能自己手工去复位到从来没安装过的状�
 
 ## 华为开发者论坛, search hi3861    
 https://developer.huawei.com/consumer/cn/doc/search?val=hi3861&type=forum  
+
+## vendor_hisi_hi3861_hi3861  
+https://github.com/OpenHarmony-mirror/vendor_hisi_hi3861_hi3861  
