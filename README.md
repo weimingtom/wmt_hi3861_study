@@ -11,6 +11,12 @@ My Hi3861 study
 * search baidupan, code-1.0.tar.gz  
 * build comomand: $ python3 build.py wifiiot  
 
+## 润和gitee  
+https://gitee.com/hihopeorg  
+《Harmony OS物联网应用开发实战》课程资料（包含代码）  
+https://gitee.com/hihopeorg/HarmonyOS-IoT-Application-Development  
+
+
 ## my own risc-v gcc toolchain build  
 * search baidupan, gcc_riscv32_v1_not_tested.tar.gz  
 * test pass  
