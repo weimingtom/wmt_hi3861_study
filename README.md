@@ -14,12 +14,13 @@ My Hi3861 study
 ## hcc_riscv32_win.zip  
 see hihope official site download    
 http://www.hihope.org/download/download.aspx?mtt=34  
+search baidupan, HiSpark开发套件资料整合(1)    
+search baidupan, hcc_riscv32_win.zip  
 
 ## 润和gitee  
 https://gitee.com/hihopeorg  
 《Harmony OS物联网应用开发实战》课程资料（包含代码）  
 https://gitee.com/hihopeorg/HarmonyOS-IoT-Application-Development  
-
 
 ## my own risc-v gcc toolchain build  
 * search baidupan, gcc_riscv32_v1_not_tested.tar.gz  
