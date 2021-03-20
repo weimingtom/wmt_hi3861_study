@@ -11,6 +11,9 @@ My Hi3861 study
 * search baidupan, code-1.0.tar.gz  
 * build comomand: $ python3 build.py wifiiot  
 
+## hcc_riscv32_win.zip  
+see hihope official site download    
+
 ## 润和gitee  
 https://gitee.com/hihopeorg  
 《Harmony OS物联网应用开发实战》课程资料（包含代码）  
