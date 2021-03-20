@@ -13,6 +13,7 @@ My Hi3861 study
 
 ## hcc_riscv32_win.zip  
 see hihope official site download    
+http://www.hihope.org/download/download.aspx?mtt=34  
 
 ## 润和gitee  
 https://gitee.com/hihopeorg  
