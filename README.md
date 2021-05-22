@@ -13,6 +13,7 @@ My Hi3861 study
 
 ## hcc_riscv32_win.zip  
 see hihope official site download    
+hihope官网->资源中心->海荷软件包->Hi3861V100->看到hcc_riscv32_win    
 http://www.hihope.org/download/download.aspx?mtt=34  
 search baidupan, HiSpark-WiFi-IoT  
 search baidupan, HiSpark开发套件资料整合(1)    
