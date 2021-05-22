@@ -96,7 +96,7 @@ https://gitee.com/LiteOS/LiteOS_Studio
 https://gitee.com/openharmony/applications_sample_wifi_iot  
 https://gitee.com/hihopeorg/applications_sample_wifi_iot  
 
-## hcc_riscv32_win缺失问题  
+## hcc_riscv32_win缺失问题（**补注：见前hcc_riscv32_win.zip，后来在润和官网提供了下载**）  
 关于昨天hi3861和LiteOS Studio的问题，有几个可能的原因：  
 （1）gitee官网文档所说的LiteOS Studio版本似乎是比较低的，  
 跟hihope官方给的LiteOS Studio版本不同，貌似后者的版本更高（安装时显示为试用版）  
